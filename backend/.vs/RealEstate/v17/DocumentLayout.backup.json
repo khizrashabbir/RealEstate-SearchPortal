@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\webapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\webapi\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C333DE-AC26-474F-9277-ACD9DE5CA80C}|src\\Domain\\Domain.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C333DE-AC26-474F-9277-ACD9DE5CA80C}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF557119-2B74-4BE7-BE07-CB8B20E97690}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF557119-2B74-4BE7-BE07-CB8B20E97690}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185728F5-8731-4272-83CC-0EECB551B234}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF557119-2B74-4BE7-BE07-CB8B20E97690}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\infrastructure\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF557119-2B74-4BE7-BE07-CB8B20E97690}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5CD530-0705-453C-94F6-EED39C42794A}|src\\Application\\Application.csproj|c:\\users\\caroline.clements\\downloads\\real estate search portal\\backend\\src\\application\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5CD530-0705-453C-94F6-EED39C42794A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:36:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Infrastructure\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Infrastructure\\Data\\SeedData.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:24:32.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:13:20.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Application\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Application\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:13:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:12:26.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\PropertiesController.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\PropertiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:11:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\FavoritesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:10:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T21:48:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Infrastructure\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\caroline.clements\\Downloads\\Real Estate Search Portal\\backend\\src\\Infrastructure\\Data\\DapperContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:48:51.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
